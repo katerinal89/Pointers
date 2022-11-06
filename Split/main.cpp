@@ -36,7 +36,6 @@ void main()
 
 	}
 
-	delete[]arr;
 
 }
 void FillRand(int arr[], const int n)
